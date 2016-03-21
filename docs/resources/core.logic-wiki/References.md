@@ -1,0 +1,28 @@
+A non-exhaustive list of influences and references:
+
+* [alphaKanren](http://www.cs.indiana.edu/~webyrd/alphamk/alphamk.pdf)
+* [Nominal Logic Programming](http://arxiv.org/abs/cs/0609062)
+* [Finite Domain Constraint Programming in Oz. A Tutorial](http://www.mozart-oz.org/documentation/fdt/)
+* [cKanren](http://scheme2011.ucombinator.org/papers/Alvis2011.pdf)
+* [Efficient Constraint Propagation Engines](http://www.gecode.org/paper.html?id=SchulteStuckey:TOPLAS:2008)
+* [Techniques for Efficient Constraint Propagation](http://www.gecode.org/paper.html?id=Lagerkvist:Lic:Diss:2008)
+* [Operations Research Tools developed at Google](http://code.google.com/p/or-tools/)
+* [logilab-constraint](http://hg.logilab.org/logilab/constraint)
+* [Solving Every Sudoku Puzzle](http://norvig.com/sudoku.html)
+* [Constraint Handling Rules](http://www.informatik.uni-ulm.de/pm/fileadmin/pm/home/fruehwirth/constraint-handling-rules-book.html)
+* [The XSB System Version 3.2 - Volume 2: Libraries, Interfaces, and Packages](http://xsb.sourceforge.net/manual2/manual2.pdf), particularly the section on Attributed Variables
+* [The XSB System Version 3.2 - Volume 1: Programmer's Manual](http://xsb.sourceforge.net/manual1/manual1.pdf)
+* [Concepts, Technqiues, and Models of Computer Programming](http://www.info.ucl.ac.be/~pvr/book.html), Chapters 9 and 12
+* [Art of the Propagator](http://dspace.mit.edu/handle/1721.1/44215)
+* [Constraint Propagation - Models, Techniques, Implementation](http://people.cs.kuleuven.be/~guido.tack/dissertation.php)
+* [Relational Programming in miniKanren: Techniques, Applications, and Implementations](http://pqdtopen.proquest.com/#abstract?dispub=3380156)
+* [The Reasoned Schemer](http://mitpress.mit.edu/catalog/item/default.asp?ttype=2&tid=10663)
+* [Efficient representations for triangular substitutions: A comparison in miniKanren](https://www.cs.indiana.edu/~lkuper/papers/walk.pdf)
+* [A pattern matcher for miniKanren, or, how to get into trouble with CPS macros](http://www.cs.indiana.edu/~lkuper/papers/lambdae.pdf)
+* [Kanren](http://kanren.sourceforge.net/)
+* [Logical JVM: Implementing the miniKanren logic system in Scala](http://hircus.multics.org/kanren/presentation.html)
+* [minikanren-scala](https://github.com/hircus/minikanren-scala)
+* [Purely Functional Data Strucutres](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.64.3080&rep=rep1&type=pdf)
+* [Using Datalog with Binary Decision Diagrams for Program Analysis](http://people.csail.mit.edu/mcarbin/papers/aplas05.pdf)
+* [Memoing for Logic Programs](http://portal.acm.org/citation.cfm?id=131299)
+* [Efficient bottom-up abstract interpretation of prolog by means of constraint solving over symbolic finite domains](http://portal.acm.org/citation.cfm?id=692605)
