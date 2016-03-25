@@ -11,7 +11,7 @@ templates_path = ['_templates']
 source_suffix = '.rst'
 
 # The encoding of source files.
-#source_encoding = 'utf-8-sig'
+source_encoding = 'utf-8-sig'
 
 # The master toctree document.
 master_doc = 'index'
@@ -46,7 +46,7 @@ if not on_rtd:  # only import and set the theme if we're building docs locally
     import sphinx_rtd_theme
     html_theme = 'sphinx_rtd_theme'
     html_theme_path = [sphinx_rtd_theme.get_html_theme_path()]
-    
+
 
 # -- Options for LaTeX output ---------------------------------------------
 
