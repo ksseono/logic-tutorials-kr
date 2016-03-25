@@ -6,8 +6,8 @@
 ## 릴리즈 및 의존성 정보
 
 * 최신 안정 릴리즈(latest stable release): 0.8.10
-	* [다른 버전의 릴리즈들](http://search.maven.org/#search%7Cgav%7C1%7Cg%3A%22org.clojure%22%20AND%20a%3A%22core.logic%22)
-	* [개발 버전 스냅샷](http://oss.sonatype.org/index.html#nexus-search;gav~org.clojure~core.logic~~~)
+	* [다른 릴리즈 버전](http://search.maven.org/#search%7Cgav%7C1%7Cg%3A%22org.clojure%22%20AND%20a%3A%22core.logic%22)
+	* [개발 스냅샷 버전](http://oss.sonatype.org/index.html#nexus-search;gav~org.clojure~core.logic~~~)
 
 * [라이닝언(Leiningen)](http://github.com/technomancy/leiningen/) 의존성 정보:
 
