@@ -1,7 +1,10 @@
 core.logic 특징
 ==============================================
 
-예제 소스코드: src/main/clojure/logic_wiki/features.clj
+	예제 소스코드: `src/main/clojure/logic_wiki/features.clj`_ 
+
+.. _src/main/clojure/logic_wiki/features.clj: https://github.com/ksseono/logic-tutorials-kr/blob/master/src/main/clojure/logic_wiki/features.clj
+
 
 단순한 인메모리 데이터베이스
 -----------------------------------------------
@@ -58,11 +61,12 @@ core.logic를 다룰 때는 core.unify와 상당히 유사하게 사용되는 �
     (unifier ['(?x ?y ?z) '(1 2 ?y)])
     ;;=> {?y 2, ?x 1, ?z 2}
 
+    (unify ['(?x ?y ?z) '(1 2 ?y)])
+    ;;=> (1 2 2)
+
     (logic/run* [?x ?y ?z]
     	(logic/== [?x ?y ?z] [1 2 ?y]))
     ;;=> ([1 2 2])
 
-
-  
 
 
