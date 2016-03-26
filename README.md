@@ -1,5 +1,8 @@
+[![Read the Docs](https://readthedocs.org/projects/logic-tutorials-kr/badge/?version=latest)](http://logic-tutorials-kr.readthedocs.org/ko/latest/?badge=latest)
+
+
 # core.logic
-클로저와 클로저 스크립트를 위한 논리 프로그래밍 라이브러리인 core.logic은 관계형 프로그래밍, 제약 논리 프로그래밍과 같은 Prolog 언어와 유사한 기능을 제공한다. 이 라이브러리는 William Byrd의 논문인 [Relational Programming in miniKanren: Techniques, Applications, and Implementations](http://pqdtopen.proquest.com/search.html#abstract?dispub=3380156)에 기술된 miniKanren을 그 기반으로 삼고 있으며,  [cKanren](http://www.schemeworkshop.org/2011/papers/Alvis2011.pdf)과 [αKanren](http://webyrd.net/alphamk/alphamk.pdf)까지도 확장하고 있다. 단순히 이들이 제공하는 기능을 넘어서 논리 프로그래밍을 쉽게 확장하는 것을 목표로 설계되었다.
+클로저와 클로저 스크립트를 위한 논리 프로그래밍 라이브러리인 core.logic은 관계형 프로그래밍, 제약 논리 프로그래밍과 같은 Prolog 언어와 유사한 기능을 제공한다. 이 라이브러리는 William Byrd의 논문 [Relational Programming in miniKanren: Techniques, Applications, and Implementations](http://pqdtopen.proquest.com/search.html#abstract?dispub=3380156)에 기술된 miniKanren을 그 기반으로 삼고 있으며,  [cKanren](http://www.schemeworkshop.org/2011/papers/Alvis2011.pdf)과 [αKanren](http://webyrd.net/alphamk/alphamk.pdf)까지도 확장하고 있다. 또한 단순히 이들이 제공하는 기능을 넘어서 논리 프로그래밍을 쉽게 확장하는 것을 목표로 설계되었다.
 
 (원문 출처: [core.logic - README.md](https://github.com/clojure/core.logic/blob/master/README.md))
 

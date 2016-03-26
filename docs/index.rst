@@ -1,7 +1,7 @@
 core.logic
 ==============================================
 
-클로저와 클로저 스크립트를 위한 논리 프로그래밍 라이브러리인 core.logic은 관계형 프로그래밍, 제약 논리 프로그래밍과 같은 Prolog 언어와 유사한 기능을 제공한다. 이 라이브러리는 William Byrd의 논문인 `Relational Programming in miniKanren: Techniques, Applications, and Implementations`_ 에 기술된 miniKanren을 그 기반으로 삼고 있으며, `cKanren`_ 과 `αKanren`_ 까지도 확장하고 있다. 또한 단순히 이들이 제공하는 기능을 넘어서 논리 프로그래밍을 쉽게 확장하는 것을 목표로 설계되었다.
+클로저와 클로저 스크립트를 위한 논리 프로그래밍 라이브러리인 core.logic은 관계형 프로그래밍, 제약 논리 프로그래밍과 같은 Prolog 언어와 유사한 기능을 제공한다. 이 라이브러리는 William Byrd의 논문 `Relational Programming in miniKanren: Techniques, Applications, and Implementations`_ 에 기술된 miniKanren을 그 기반으로 삼고 있으며, `cKanren`_ 과 `αKanren`_ 까지도 확장하고 있다. 또한 단순히 이들이 제공하는 기능을 넘어서 논리 프로그래밍을 쉽게 확장하는 것을 목표로 설계되었다.
 
 (원문 출처: `core.logic - README.md`_)
 
@@ -14,6 +14,7 @@ core.logic
 ----------------------------------------------
 
 * 최신 안정 릴리즈(latest stable release): 0.8.10  
+  
 	* `다른 릴리즈 버전`_
 	* `개발 스냅샷 버전`_     
      
