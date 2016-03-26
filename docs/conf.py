@@ -51,7 +51,8 @@ if not on_rtd:  # only import and set the theme if we're building docs locally
 # -- Options for LaTeX output ---------------------------------------------
 
 latex_elements = {
-    'inputenc': '\\usepackage{kotex}'
+    'inputenc': '\\usepackage{kotex}',
+    'babel': '\\usepackage[english]{babel}'
 }
 
 latex_documents = [
