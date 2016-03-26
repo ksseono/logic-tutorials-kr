@@ -50,7 +50,9 @@ if not on_rtd:  # only import and set the theme if we're building docs locally
 
 # -- Options for LaTeX output ---------------------------------------------
 
-latex_elements = {}
+latex_elements = {
+    'inputenc': '\\usepackage{kotex}'
+}
 
 latex_documents = [
     (master_doc, 'logic-tutorials-kr.tex', u'logic-tutorials-kr',
@@ -60,16 +62,16 @@ latex_documents = [
 
 # -- Options for manual page output ---------------------------------------
 
-man_pages = [
-    (master_doc, 'logic-tutorials-kr', u'logic-tutorials-kr',
-     [author], 1)
-]
+# man_pages = [
+#     (master_doc, 'logic-tutorials-kr', u'logic-tutorials-kr',
+#      [author], 1)
+# ]
 
 
 # -- Options for Texinfo output -------------------------------------------
 
-texinfo_documents = [
-    (master_doc, 'logic-tutorials-kr', u'logic-tutorials-kr',
-     author, 'logic-tutorials-kr', 'One line description of project.',
-     'Miscellaneous'),
-]
+# texinfo_documents = [
+#     (master_doc, 'logic-tutorials-kr', u'logic-tutorials-kr',
+#      author, 'logic-tutorials-kr', 'One line description of project.',
+#      'Miscellaneous'),
+# ]
