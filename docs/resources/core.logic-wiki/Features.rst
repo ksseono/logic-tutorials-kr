@@ -3,8 +3,7 @@ core.logic 특징
 
 	예제 소스코드: `src/main/clojure/logic_wiki/features.clj`_ 
 
-.. _src/main/clojure/logic_wiki/features.clj: https://github.com/ksseono/logic-tutorials-kr/blob/master/src/main/clojure/logic_wiki/features.clj
-
+.. _src/logic_wiki/features.clj: https://github.com/ksseono/logic-tutorials-kr/blob/master/src/logic_wiki/features.clj
 
 단순한 인메모리 데이터베이스
 -----------------------------------------------
