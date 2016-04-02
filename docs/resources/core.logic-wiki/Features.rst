@@ -1,7 +1,7 @@
 core.logic 특징
 ==============================================
 
-	예제 소스코드: `src/main/clojure/logic_wiki/features.clj`_ 
+	예제 소스코드: `src/logic_wiki/features.clj`_ 
 
 .. _src/logic_wiki/features.clj: https://github.com/ksseono/logic-tutorials-kr/blob/master/src/logic_wiki/features.clj
 
