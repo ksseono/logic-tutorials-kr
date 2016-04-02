@@ -6,3 +6,8 @@ docs/_static
 .DS_Store
 .nrepl-port
 target
+
+#emacs temp files
+\#*\#
+.\#*
+auto-save-list
